@@ -6,7 +6,7 @@
 /*   By: edelage <edelage@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/07/31 15:02:24 by edelage           #+#    #+#             */
-/*   Updated: 2022/07/31 15:27:24 by edelage          ###   ########.fr       */
+/*   Updated: 2022/07/31 16:07:38 by edelage          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -47,7 +47,7 @@ void	line(char line[])
 void	display_grid(char grid[3][3])
 {
 	int	count;
-	
+
 	count = 0;
 	while (count < 5)
 	{
